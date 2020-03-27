@@ -26,7 +26,6 @@ public class ConfigBean //boot -->spring   applicationContext.xml --- @Configura
 		return new RetryRule();
 	}
 }
-
 //@Bean
 //public UserServcie getUserServcie()
 //{
